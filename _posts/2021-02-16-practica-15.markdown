@@ -13,9 +13,8 @@ En esta práctica tendremos que realizar la implantación de un sitio WordPress 
 
 #### Crear una máquina virtual Amazon EC2.
 
-<iframe width="600" height = "420"
-src="https://https://github.com/jesus2307/jesus2307.github.io/blob/master/imagen/Captura4.PNG">
-</iframe>
+![](https://https://github.com/jesus2307/jesus2307.github.io/blob/master/imagen/Captura4.PNG){width='100px'}
+
 
 #### Instalar y configurar Docker y Docker compose en la máquina virtual.
 
