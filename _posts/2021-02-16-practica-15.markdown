@@ -13,22 +13,22 @@ En esta práctica tendremos que realizar la implantación de un sitio WordPress 
 
 #### Crear una máquina virtual Amazon EC2.
 
-![imagen](https://github.com/jesus2307/jesus2307.github.io/blob/master/imagen/Captura4.PNG "imagen")
+<img src="https://https://github.com/jesus2307/jesus2307.github.io/blob/master/imagen/Captura4.PNG">
 
 #### Instalar y configurar Docker y Docker compose en la máquina virtual.
 
 #### Crear un archivo docker-compose.yml para poder desplegar los servicios de WordPress, MySQL y phpMyAdmin. Deberá utilizar las imágenes oficiales de Docker Hub.
 
-![imagen](https://github.com/jesus2307/jesus2307.github.io/blob/master/imagen/Captura1.PNG "imagen")
+<img src="https://https://github.com/jesus2307/jesus2307.github.io/blob/master/imagen/Captura1.PNG">
 
 Busque cuál es la dirección IP pública de su instancia y compruebe que puede acceder a los servicios de 
 + WordPress
 
-![imagen](https://github.com/jesus2307/jesus2307.github.io/blob/master/imagen/Captura2.PNG "imagen")
+<img src="https://https://github.com/jesus2307/jesus2307.github.io/blob/master/imagen/Captura2.PNG">
 
 + phpMyAdmin
 
-![imagen](https://github.com/jesus2307/jesus2307.github.io/blob/master/imagen/Captura3.PNG "imagen")
+<img src="https://https://github.com/jesus2307/jesus2307.github.io/blob/master/imagen/Captura3.PNG">
 
 # Direcion: 
 http://44.192.55.121/ 
