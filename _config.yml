@@ -22,7 +22,7 @@ title: jesus
 email: jesus@gmial.com
 description: >- # this means to ignore newlines until "baseurl:"
   jesus blog.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "https://jesus2307.github.io/practica/2021/02/16/practica-15.html" # the subpath of your site, e.g. /blog
 url: "https://jesus2307.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jesus_23_07
 github_username:  jesus2307
