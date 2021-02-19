@@ -23,6 +23,7 @@ En esta práctica tendremos que realizar la implantación de un sitio WordPress 
 
 Busque cuál es la dirección IP pública de su instancia y compruebe que puede acceder a los servicios de 
 + WordPress
+
 ![imagen](https://github.com/jesus2307/iaw-practica-15/blob/main/imagen/Captura2.PNG "imagen")
 
 + phpMyAdmin
